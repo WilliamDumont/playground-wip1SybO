@@ -1,5 +1,4 @@
-title: Simple Scala template
-
+title: test scala search
 plan:
-  - title: Scala Snippet
-    statement: statement.md
+- title: Scala Snippet
+  statement: statement.md
